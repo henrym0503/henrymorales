@@ -1,0 +1,21 @@
+{
+  "globals": {
+    "title": "Henry Morales",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis laoreet dui, quis fermentum tellus. Donec vitae lacus vel lacus vehicula lobortis. Etiam feugiat sed nisi sit amet porta. Sed a orci pulvinar, volutpat elit id, cursus elit. Integer tempor leo quis massa commodo, ut tristique orci facilisis. Nullam et justo vitae diam malesuada imperdiet. Nullam finibus tincidunt eros ac blandit. Donec erat eros, viverra a ullamcorper quis, congue dapibus leo.",
+    "brand": "Henry Morales",
+    "content_title": "Want to Know Me?",
+    "contact_content": "Contact me at anytime!",
+    "contact_content_title": "reach me",
+    "list": [
+      {
+        "item": "item #1"
+      },
+      {
+        "item": "item #2"
+      },
+      {
+        "item": "item #3"
+      }
+    ]
+  }
+}

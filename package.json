@@ -1,0 +1,18 @@
+{
+  "name": "HenryMorales",
+  "version": "1.0.0",
+  "description": "JS project ",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "harp": "^0.20.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "harp server"
+  },
+  "author": "Henry Morales",
+  "license": "ISC"
+}
